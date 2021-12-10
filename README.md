@@ -4,7 +4,7 @@
 ### 7ib0r
 
 - 🔭 Follow my journey to become a security analyst!
-- 🌱 I'm studying to get the CCNA!
+- 🌱 I'm studying to get the CCNA! Check my study notes in network repo.
 - 📫 How to find me: My contacts are below.
 - ⚡ Fun fact: (👍≖‿‿≖)👍 (I love the good and old emoticon xD)
  
