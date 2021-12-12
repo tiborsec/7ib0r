@@ -7,21 +7,6 @@
 - 🌱 I'm studying to get the CCNA! Check my study notes in network repo.
 - 📫 How to find me: My contacts are below.
 - ⚡ Fun fact: (👍≖‿‿≖)👍 (I love the good and old emoticon xD)
- 
-<div style="display: inline-flex"><br>
- 
-  <img align="center" height="30" width="40"
-       src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linux/linux-original.svg">
-  <img align="center" height="30" width="40" 
-        src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/bash/bash-original.svg">
-   <img align="center" height="30" width="40" 
-        src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-original.svg">
-   <img align="center" height="30" width="40" 
-        src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/c/c-original.svg">
-    
-</div>
-
-
 
    ![Snake animation](https://github.com/7ib0r/7ib0r/blob/output/github-contribution-grid-snake.svg)
 </div>
